@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Debug (Launch) - LongSolution",
+            "request": "launch",
+            "console": "internalConsole",
+            "mainClass": "longSolution"
+        },
+        
+        {
+            "type": "java",
             "console": "internalConsole",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
