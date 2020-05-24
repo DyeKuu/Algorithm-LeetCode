@@ -6,4 +6,3 @@ The files are named as the convention LC[Question ID][Question name], where the 
 ## Contributors
 
 [DyeKuu](https://github.com/DyeKuu)
-[yhz-ev3r](https://github.com/yhz-ev3r)
