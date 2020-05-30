@@ -1,5 +1,5 @@
 # Algorithm-LeetCode
-This is a repository for codes in Java/C++ when resolving the question in Leetcode.
+This is a repository for codes in Java/C++/Rust when resolving the question in Leetcode.
 
 In folder basic you can find some implementations of the basic algorithms.
 
